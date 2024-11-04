@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://colortoon.com
+url: https://colortoon.net
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -106,4 +106,4 @@ deploy:
   type: git
   repo: git@github2.com:colortoon/colortoon-web.git
   branch: public
-  # token: /Users/henry/.ssh/pha_id_rsa
+  # token: /Users/henry/.ssh/id_rsa_github
