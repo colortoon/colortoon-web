@@ -104,6 +104,6 @@ theme: hexo-theme-auto
 #  type: ''
 deploy:
   type: git
-  repo: https://github2.com/colortoon/colortoon-web.git
+  repo: git@github2.com:colortoon/colortoon-web.git
   branch: public
   # token: /Users/henry/.ssh/pha_id_rsa
