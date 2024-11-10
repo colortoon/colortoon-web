@@ -1,0 +1,259 @@
+{
+    "config": {
+        "params": {
+            "bannerPath": "https://twattraction.akamaized.net/www_v1/imgComic/banner",
+            "thumb7x2Path": "https://twattraction.akamaized.net/www_v1/imgComic/co_thumb7/x2"
+        }
+    },
+    "data": {
+        "swipers": [
+            {
+                "link": "#join",
+                "image": "{bannerPath}/626367b1e9730062a7ed4c53a116623f.jpg"
+            },
+            {
+                "link": "/comic/epList/81062",
+                "image": "{bannerPath}/420df25428eb9b23ec8094e603faae1f.jpg"
+            },
+            {
+                "link": "/comic/epList/80828_1",
+                "image": "{bannerPath}/ca0596b079aa158d7487abeec54f4b78.jpg"
+            },
+            {
+                "link": "/comic/epList/81056",
+                "image": "{bannerPath}/6780fa9a281c08fdc85c28a418a836d3.jpg"
+            },
+            {
+                "link": "/comic/epList/81033_1",
+                "image": "{bannerPath}/f4c3266f93c18a4e37ecc6cd17a27d83.jpg"
+            },
+            {
+                "link": "/comic/epList/81052_1",
+                "image": "{bannerPath}/4e8891f657d9b81bb6b1473a7d2113f2.jpg"
+            },
+            {
+                "link": "/event/attendance",
+                "image": "{bannerPath}/51145aa61ac63245affc34e443b02eec.jpg"
+            },
+            {
+                "link": "/freesale#go_waitFree",
+                "image": "{bannerPath}/e2abce5fbe0b9476edf2e269acde2bff.jpg"
+            }
+        ],
+        "categorys": [
+            {
+                "title": "\u65b0\u4e0a\u67b6",
+                "books": [
+                    {
+                        "image": "{thumb7x2Path}/1695_1721974866.5079.jpg",
+                        "bookName": "\u76e3\u7344\u5973\u56da (\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c8\u8a71 ",
+                        "scroe": "2.6\u842c",
+                        "author": "\u4ec1\u7235&\u6210\u654f",
+                        "link": "/comic/epList/81074_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1706_1727331810.8955.jpg",
+                        "bookName": "Set up!\u6392\u7403\u5c11\u5973 (\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c3\u8a71 ",
+                        "scroe": "5\u5343",
+                        "author": "\u91d1Zetta&\u91d1\u6587\u5716",
+                        "link": "/comic/epList/81130_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1458_1647424540.1401.jpg",
+                        "bookName": "\u8ab0\u8aaa\u7406\u7d44\u6c92\u6b63\u59b9?(\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c21\u8a71 ",
+                        "scroe": "24\u842c",
+                        "author": "OB&\u52a0\u73ed\u6162\u90ce\u4e2d",
+                        "link": "/comic/epList/80975_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1526_1655197482.3307.jpg",
+                        "bookName": "\u8d85\u7d1a\u516c\u52d9\u54e1 (\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c15\u8a71 ",
+                        "scroe": "13\u842c",
+                        "author": "\u6734\u79c0\u7bc4&\u8077\u5834\u8001\u9ce5&\u91d1\u5fb7\u5146",
+                        "link": "/comic/epList/80996_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1677_1706765303.2533.jpg",
+                        "bookName": "\u540c\u5c45\u4e0a\u4e0b\u8216 (\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c12\u8a71 ",
+                        "scroe": "1.0\u842c",
+                        "author": "\u683c\u5b5017&\u96f2\u6cb3\u5c39",
+                        "link": "/comic/epList/81043_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1614_1677736360.7394.jpg",
+                        "bookName": "\u53ef\u7591\u7684\u4ee3\u8868(\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c62\u8a71 \u6700\u7d42\u8a71 ",
+                        "scroe": "5\u5343",
+                        "author": "Keimjae",
+                        "link": "/comic/epList/strange_ceo_NA"
+                    }
+                ]
+            },
+            {
+                "title": "\u5373\u6642",
+                "books": [
+                    {
+                        "image": "{thumb7x2Path}/1458_1647424540.1401.jpg",
+                        "bookName": "\u8ab0\u8aaa\u7406\u7d44\u6c92\u6b63\u59b9?(\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c21\u8a71 ",
+                        "scroe": "24\u842c",
+                        "author": "OB&\u52a0\u73ed\u6162\u90ce\u4e2d",
+                        "link": "/comic/epList/80975_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1483_1647423098.5338.jpg",
+                        "bookName": "\u89aa\u5bb6\u56db\u59ca\u59b9(\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c20\u8a71 ",
+                        "scroe": "15\u842c",
+                        "author": "\u611b\u6478",
+                        "link": "/comic/epList/80870_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1695_1721974866.5079.jpg",
+                        "bookName": "\u76e3\u7344\u5973\u56da (\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c8\u8a71 ",
+                        "scroe": "2.6\u842c",
+                        "author": "\u4ec1\u7235&\u6210\u654f",
+                        "link": "/comic/epList/81074_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1706_1727331810.8955.jpg",
+                        "bookName": "Set up!\u6392\u7403\u5c11\u5973 (\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c3\u8a71 ",
+                        "scroe": "5\u5343",
+                        "author": "\u91d1Zetta&\u91d1\u6587\u5716",
+                        "link": "/comic/epList/81130_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1300_1610961618.4495.jpg",
+                        "bookName": "\u9752\u6625\u6200\u611b\u7d00\u9304",
+                        "chapterNumber": "\u7b2c102\u8a71 ",
+                        "scroe": "92\u842c",
+                        "author": "\u62b9\u5de7\u9905\u4e7e",
+                        "link": "/comic/epList/80758"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1677_1706765303.2533.jpg",
+                        "bookName": "\u540c\u5c45\u4e0a\u4e0b\u8216 (\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c12\u8a71 ",
+                        "scroe": "1.0\u842c",
+                        "author": "\u683c\u5b5017&\u96f2\u6cb3\u5c39",
+                        "link": "/comic/epList/81043_1"
+                    }
+                ]
+            },
+            {
+                "title": "\u65b0\u4f5c",
+                "books": [
+                    {
+                        "image": "{thumb7x2Path}/1695_1721974866.5079.jpg",
+                        "bookName": "\u76e3\u7344\u5973\u56da (\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c8\u8a71 ",
+                        "scroe": "2.6\u842c",
+                        "author": "\u4ec1\u7235&\u6210\u654f",
+                        "link": "/comic/epList/81074_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1706_1727331810.8955.jpg",
+                        "bookName": "Set up!\u6392\u7403\u5c11\u5973 (\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c3\u8a71 ",
+                        "scroe": "5\u5343",
+                        "author": "\u91d1Zetta&\u91d1\u6587\u5716",
+                        "link": "/comic/epList/81130_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1677_1706765303.2533.jpg",
+                        "bookName": "\u540c\u5c45\u4e0a\u4e0b\u8216 (\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c12\u8a71 ",
+                        "scroe": "1.0\u842c",
+                        "author": "\u683c\u5b5017&\u96f2\u6cb3\u5c39",
+                        "link": "/comic/epList/81043_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1597_1673863086.8574.jpg",
+                        "bookName": "\u6211\u7684\u5abd\u5abd\u662f\u55aa\u5c4d",
+                        "chapterNumber": "\u7b2c73\u8a71 \u6700\u7d42\u8a71 ",
+                        "scroe": "22\u842c",
+                        "author": "Leungho",
+                        "link": "/comic/epList/81056"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1526_1655197482.3307.jpg",
+                        "bookName": "\u8d85\u7d1a\u516c\u52d9\u54e1 (\u5168\u5e74\u9f61\u7248)",
+                        "chapterNumber": "\u7b2c15\u8a71 ",
+                        "scroe": "13\u842c",
+                        "author": "\u6734\u79c0\u7bc4&\u8077\u5834\u8001\u9ce5&\u91d1\u5fb7\u5146",
+                        "link": "/comic/epList/80996_1"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1632_1680830638.1772.jpg",
+                        "bookName": "\u6bba\u4eba\u56de\u61b6",
+                        "chapterNumber": "\u7b2c45\u8a71 ",
+                        "scroe": "5\u5343",
+                        "author": "\u5c39\u4f9d\u5a1c&\u767d\u73cd\u79b9&\u91d1\u9418\u8ce2",
+                        "link": "/comic/epList/81063"
+                    }
+                ]
+            },
+            {
+                "title": "\u7279\u50f9",
+                "books": [
+                    {
+                        "image": "{thumb7x2Path}/1632_1680830638.1772.jpg",
+                        "bookName": "\u6bba\u4eba\u56de\u61b6",
+                        "chapterNumber": "\u7b2c45\u8a71 ",
+                        "scroe": "5\u5343",
+                        "author": "\u5c39\u4f9d\u5a1c&\u767d\u73cd\u79b9&\u91d1\u9418\u8ce2",
+                        "link": "/comic/epList/81063"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/577_1532319635.8102.jpg",
+                        "bookName": "\u50b3\u67d3\u5c11\u5973",
+                        "chapterNumber": "\u7b2c57\u8a71 \u6700\u7d42\u8a71 ",
+                        "scroe": "11\u842c",
+                        "author": "\u96c5\u6817",
+                        "link": "/comic/epList/80542"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1625_1680164757.6782.jpg",
+                        "bookName": "\u5931\u6200\u7576\u92ea",
+                        "chapterNumber": "\u7b2c47\u8a71 ",
+                        "scroe": "1.4\u842c",
+                        "author": "\u6734\u5b87\u632f&\u91d1\u4f86\u8ce2",
+                        "link": "/comic/epList/81062"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/490_1528957980.8339.jpg",
+                        "bookName": "BURST",
+                        "chapterNumber": "\u7b2c60\u8a71 \u6700\u7d42\u8a71 ",
+                        "scroe": "3.9\u842c",
+                        "author": "\u5b6b\u682a\u6e19",
+                        "link": "/comic/epList/80451"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/1609_1676447405.6642.jpg",
+                        "bookName": "\u5fa9\u4ec7\u69ae\u8000",
+                        "chapterNumber": "\u7b2c52\u8a71 \u6700\u7d42\u8a71 ",
+                        "scroe": "1\u842c",
+                        "author": "\u91d1\u93ae\u4fee",
+                        "link": "/comic/epList/81057"
+                    },
+                    {
+                        "image": "{thumb7x2Path}/250_1528941072.7195.jpg",
+                        "bookName": "\u8ecd\u4e8b",
+                        "chapterNumber": "\u7b2c50\u8a71 \u6700\u7d42\u8a71 ",
+                        "scroe": "9.7\u842c",
+                        "author": "\u912d\u9032\u5f69",
+                        "link": "/comic/epList/80136"
+                    }
+                ]
+            }
+        ],
+        "channels": []
+    }
+}
