@@ -8,10 +8,6 @@
     "data": {
         "swipers": [
             {
-                "link": "#join",
-                "image": "{bannerPath}/626367b1e9730062a7ed4c53a116623f.jpg"
-            },
-            {
                 "link": "/comic/epList/81062",
                 "image": "{bannerPath}/420df25428eb9b23ec8094e603faae1f.jpg"
             },
@@ -30,14 +26,6 @@
             {
                 "link": "/comic/epList/81052_1",
                 "image": "{bannerPath}/4e8891f657d9b81bb6b1473a7d2113f2.jpg"
-            },
-            {
-                "link": "/event/attendance",
-                "image": "{bannerPath}/51145aa61ac63245affc34e443b02eec.jpg"
-            },
-            {
-                "link": "/freesale#go_waitFree",
-                "image": "{bannerPath}/e2abce5fbe0b9476edf2e269acde2bff.jpg"
             }
         ],
         "categorys": [

@@ -5,14 +5,6 @@
  },
  "swipers": [
   {
-   "image": "//twattraction.akamaized.net/www_v1/imgComic/banner/626367b1e9730062a7ed4c53a116623f.jpg",
-   "link": "#join",
-   "name": "",
-   "author": "",
-   "chapter_number": "",
-   "pv": ""
-  },
-  {
    "image": "//twattraction.akamaized.net/www_v1/imgComic/banner/420df25428eb9b23ec8094e603faae1f.jpg",
    "link": "/comic/epList/81062",
    "name": "",
@@ -47,22 +39,6 @@
   {
    "image": "//twattraction.akamaized.net/www_v1/imgComic/banner/4e8891f657d9b81bb6b1473a7d2113f2.jpg",
    "link": "/comic/epList/81052_1",
-   "name": "",
-   "author": "",
-   "chapter_number": "",
-   "pv": ""
-  },
-  {
-   "image": "//twattraction.akamaized.net/www_v1/imgComic/banner/51145aa61ac63245affc34e443b02eec.jpg",
-   "link": "/event/attendance",
-   "name": "",
-   "author": "",
-   "chapter_number": "",
-   "pv": ""
-  },
-  {
-   "image": "//twattraction.akamaized.net/www_v1/imgComic/banner/e2abce5fbe0b9476edf2e269acde2bff.jpg",
-   "link": "/freesale#go_waitFree",
    "name": "",
    "author": "",
    "chapter_number": "",
@@ -364,7 +340,8 @@
    "books": [
     {
      "image": "//twattraction.akamaized.net/www_v1/imgComic/banner/c450fef59d071b0081adcd4e510db72f.jpg",
-     "link": "/event/attendance",
+     "link2": "/event/attendance",
+     "link": "/comic/epList/81062",
      "name": "",
      "author": "",
      "chapter_number": "",
@@ -372,7 +349,8 @@
     },
     {
      "image": "//twattraction.akamaized.net/www_v1/imgComic/banner/40aa06048e2c9654c0cccf0ced84a9a0.jpg",
-     "link": "/freesale#go_waitFree",
+     "link2": "/freesale#go_waitFree",
+     "link": "/comic/epList/81063",
      "name": "",
      "author": "",
      "chapter_number": "",
@@ -380,7 +358,8 @@
     },
     {
      "image": "//twattraction.akamaized.net/www_v1/imgComic/banner/e7a3e17ae4377cb2188d1fa58641f2f3.jpg",
-     "link": "/payment/freeChargeLinePayPoint",
+     "link2": "/payment/freeChargeLinePayPoint",
+     "link": "/comic/epList/81057",
      "name": "",
      "author": "",
      "chapter_number": "",
@@ -388,7 +367,8 @@
     },
     {
      "image": "//twattraction.akamaized.net/www_v1/imgComic/banner/08505b79b8d9032ead1625981e44e5d8.jpg",
-     "link": "/freesale#go_oneCoin",
+     "link2": "/freesale#go_oneCoin",
+     "link": "/comic/epList/80136",
      "name": "",
      "author": "",
      "chapter_number": "",
